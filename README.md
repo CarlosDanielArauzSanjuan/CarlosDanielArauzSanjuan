@@ -48,6 +48,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30"/>
   </a>
   &emsp;
+    <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/db768524-81d9-435e-96fc-33b517e15616/blob.png" alt="SCRUM" width="30"/>
+  </a>
+  &emsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="27"/>
   </a>
@@ -69,10 +73,26 @@
   </a>
     &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  alt="C++" width="27"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="27"/>
     &emsp;
   <a href="https://go.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="27"/>
+  </a>
+    &emsp;
+      <a href="https://www.ableton.com/" target="_blank" rel="noreferrer">
+    <img src="https://picfiles.alphacoders.com/401/thumb-401887.png" alt="Ableton" width="42"/>
+  </a>
+    &emsp;
+      <a href="https://primemusic.com.pe/" target="_blank" rel="noreferrer">
+    <img src="https://primemusic.com.pe/wp-content/uploads/2016/09/prime_2018_white_sure.png" alt="Prime Music" width="50"/>
+  </a>
+    &emsp;
+      <a href="https://www.apple.com/es/logic-pro/" target="_blank" rel="noreferrer">
+    <img src="https://help.apple.com/assets/666A378AD6A9B20590057F77/666A37A092E9DC89EA08DBD8/es_ES/390711ce08c61bf054d3dc4dfb9080ae.png" alt="Logic Pro" width="27"/>
+  </a>
+    &emsp;
+      <a href="https://www.apple.com/es/mainstage/" target="_blank" rel="noreferrer">
+    <img src="https://static.wikia.nocookie.net/logopedia/images/e/ec/Apple_MainStage_2020.png/revision/latest?cb=20230130235450" alt="Prime Music" width="27"/>
   </a>
 </div>
 
