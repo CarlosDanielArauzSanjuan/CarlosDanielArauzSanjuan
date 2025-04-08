@@ -1,22 +1,97 @@
-<h1 align="center">Hi 👋, I'm Carlos Daniel Arauz Sanjuan</h1>
-<h3 align="center">A passionate Student from Colombia</h3>
+<h1 align="center">Hi 👋, I'm Daniel Arauz 👨🏻‍💻</h1>
 
-- 📫 How to reach me **Darauzing@gmail.com**
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=carlosdanielarauzsanjuan&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200&background=45%2C000000%2C72FE0A" alt="GitHub Streak"/>
+</div>
 
-- ⚡ Fun fact **I think I'm very funny**
+<br>
 
-- 🔭 I’m currently working on **MUSIC**
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=CarlosDanielArauzSanjuan&label=Profile%20Views&color=72FE0A&style=flat" alt="Profile Views" height="27" width="142"/>
+</div>
 
-- 🌱 I’m currently learning **PROGRAMMING COURSES**
-
-- 💬 Ask me about **TOLKIEN WORLD,STAR-WARS AND DUNE.**
+>[!NOTE]
+>**I'm open to receiving offers for jobs**.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/itsarauzdaniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsarauzdaniel" height="30" width="40" /></a>
-<a href="https://discord.gg/daniel.arauz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="daniel.arauz" height="30" width="40" /></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in//" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="27" width="50"/>
+  </a>
+  &emsp;
+  <a href="https://instagram.com/itsarauzdaniel" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="27" width="50"/>
+  </a>
+  &emsp;
+  <a href="https://wa.me/573108027727" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="27" width="50"/>
+  </a>
+</div>
+<p align="center">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=arauzing@gmail.com&su=Hi,+dear+Carlos+Daniel.&body=I+want+to+contact+you+to…"><i><tt><b>arauzing@gmail.com</b></i></tt></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+>[!IMPORTANT]
+>You can contact me more easily by _WhatsApp_.
+
+<h3 align="left">Skills:</h3>
+<div align="center">
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="27"/>
+  </a>
+  &emsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="27"/>
+  </a>
+  &emsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30"/>
+  </a>
+  &emsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="27"/>
+  </a>
+  &emsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/>
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="27"/>
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="27"/>
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="27"/>
+  </a>
+    &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  alt="C++" width="27"/>
+    &emsp;
+  <a href="https://go.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="27"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdanielarauzsanjuan&show_icons=true&locale=en&layout=donut&theme=dark" alt="Most Used Languages"/>
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=carlosdanielarauzsanjuan&show_icons=true&locale=en&theme=dark" alt="Github Stats"/>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=carlosdanielarauzsanjuan&theme=matrix" alt="Github Trophys"/>
+  </a>
+</div>
